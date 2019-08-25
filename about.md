@@ -14,49 +14,60 @@ article_header:
     src: /assets/images/cover1.jpg
 ---
 
+Hi! My name is Cyrill and I am a software developer, I love learning new technologies and solving hard problems. In this page I list some of my professional path. 
 
-This is here I am going to write about me. Maybe like a cv
+If you ever want to get in contacted with me you can send me a email at *cyrill.brito@gmail.com*.
+
+# Experience
+
+#### Full stack developer
+
+<img src="/assets/images/omnibees.png" height="60px">
 
 
+*Since April 2017*
 
+* Angular 2+
+* C# .NET Framework APIs
+* SQL Server
+* Couchbase
+* Scrum
+* Distributed team
 
+<div style="height:40px"></div>
 
+#### Programmer internship
 
-# EXPERIENCE
+<img src="/assets/images/hubel.png" height="60px">
 
-Full stack dev at Omnibees
+*From May 2014 until July 2014*
 
-Since 2017
+* Visual basic
+* Windows forms
+* CSV manipulation
 
 
 # Education
 
-Pinheiro e rosa
-Universidade
+
+#### Degree in Computer Engineering
+
+<img src="/assets/images/ualg.png" height="70px">
+
+*From May 2014 until July 2017*
+
+<div style="height:40px"></div>
 
 
-# CONTACT
-account_circle
-Born 1990 in New York
-location_city
-1234 Broadway
-New York
-phone
-0123 456789
-email
-john.doe@email.com
-@johnyD github.com/johnyD
-language
-johndoe.com
+#### IT Systems Management and Programming
 
-# SKILLS
+<img src="/assets/images/aeprosa.jfif" height="60px">
+
+*From May 2011 until July 2014*
 
 
-* Angular (Html, scss, typescript...)
+# Licenses & Certifications
 
-* C#
-* .NET
-* ...
+* CCNA Exploration: Network Fundamentals
 
-
-
+<!-- # Skills -->
