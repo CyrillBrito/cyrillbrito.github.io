@@ -34,6 +34,16 @@ If you ever want to get in contacted with me you can send me a email at *cyrill.
 * Scrum
 * Distributed team
 
+<!--
+- Bases do c#
+- Agostos - Março 18 : inicio a desemvolver API .net c#
+- Março - Junho : Aprendizagem angular / suporte a uma equipa outsourcing da india
+- Junho - 15 de Agosto : Desemvolvimento hardcore de angular
+- 15 Agosto - 09 Novembro : API
+- 12 - Novembro - 31 Dezembro : Desemvolvimento hardcore de angular
+- team leader fullstack 15 de abril 2019
+-->
+
 <div style="height:40px"></div>
 
 #### Programmer internship
@@ -45,6 +55,9 @@ If you ever want to get in contacted with me you can send me a email at *cyrill.
 * Visual basic
 * Windows forms
 * CSV manipulation
+<!-- 
+Estagio de 2 messes a desemvolver em Basic um programa que lê um ficheiro CSV com a fatura do telemoveis e internets moveis da vodafone e fazer parse e recalcular o custo 
+-->
 
 
 # Education
